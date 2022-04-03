@@ -34,14 +34,9 @@ The global fitness apps industry was accounted for $13.78 billion in 2020 and is
 
 ## Growth
 <img src="snaps/155 (6).png">
-
-## Unit Economics
-<img src="snaps/155 (9).png">
-
-<img src="snaps/155 (10).png">
-<img src="snaps/155 (11).png">
+ 
 
 ## Competition
 <img src="snaps/155 (7).png">
 
-# Overview of application
+ 
